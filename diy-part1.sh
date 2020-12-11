@@ -20,4 +20,4 @@
 
 
 git clone https://github.com/xiaorouji/openwrt-passwall.git package/openwrt-passwall
-git clone https://github.com/vernesong/OpenClash.git package/OpenClash
+git clone https://github.com/frainzy1477/luci-app-clash.git package/luci-app-clash
